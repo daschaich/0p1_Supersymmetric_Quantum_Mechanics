@@ -2,7 +2,7 @@
 #==============================================================================================
 
 # This file is called called Hamiltonian_SQM_0p1.py
-# It is available at https://github.com/
+# It is available at https://github.com/emanuele-mendicelli/0p1_Supersymmetric_Quantum_Mechanics
 #
 # The code below is for generating the Hamiltonian for a 0+1 dimensional supersymmetric quantum mechanics.
 # The code was used to produce the results in the proceeding: 
@@ -150,7 +150,7 @@ def Hamiltonian_SQM_0p1(potential_name, n_bosonic_modes=1, m=1, g=1, mu=1):
 
 # Some functions needed during the testing mode
 
-#Function to print nicely a matrix (2-dimensional array) that takes into account the leght of the matrix elemnts
+#Function to print nicely a matrix (2-dimensional array) that takes into account the leght of the matrix elements
 def print_matrix_nicely(matrix):
     
     #Number of decimals retained 
