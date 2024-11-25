@@ -17,7 +17,7 @@ Results from quantum simulations, both with and without shot noise, are presente
 
 
 # How_to_cite
-If you find this code (or parts of it) useful, please cite the preprint as well as the code:
+If you find this code (or parts of it) useful, please cite the proceeding as well as the code:
 ```bibtex
 @article{Mendicelli:2024ryt,
     author = "Mendicelli, Emanuele and Schaich, David",
