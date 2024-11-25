@@ -7,7 +7,7 @@ The 0+1 supersymmetric quantum mechanics spontaneous supersymmetry breaking is i
 - Double Well
 - Anharmonic Oscillator
 
-The groud state energy calculation is performed by using the Variational Quantum Eigensolver [`(VQE)`](https://www.nature.com/articles/ncomms5213) algorithm implemented in [`QISKIT`](https://www.qiskit.org). For a comprehensive introduction to designing a VQE in QISKIT, please visit the IBM [`Variational Algorithm Design`](https://learning.quantum.ibm.com/course/variational-algorithm-design).
+The groud state energy is determined using the Variational Quantum Eigensolver [`(VQE)`](https://www.nature.com/articles/ncomms5213) algorithm implemented in [`QISKIT`](https://www.qiskit.org). For a comprehensive introduction to designing a VQE in QISKIT, please visit the IBM [`Variational Algorithm Design`](https://learning.quantum.ibm.com/course/variational-algorithm-design).
 
 
 
