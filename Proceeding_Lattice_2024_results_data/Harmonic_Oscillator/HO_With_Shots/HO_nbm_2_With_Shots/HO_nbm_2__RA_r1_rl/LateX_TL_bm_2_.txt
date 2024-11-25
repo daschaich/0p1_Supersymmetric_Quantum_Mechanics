@@ -1,0 +1,9 @@
+RA r1 rl & $1\mathrm{e}{-01}$ & 10000 & 100/100 &21 & $0\mathrm{e}{+00}$ & $0\mathrm{e}{+00}$ & $0\mathrm{e}{+00}$ & $2.7\mathrm{e}{-03}$ & $2.7\mathrm{e}{-03}$ & $0\mathrm{e}{+00}$ & 00h 02m 34s\\
+RA r1 rl & $1\mathrm{e}{-01}$ & 10000 & 100/100 &21 & $0\mathrm{e}{+00}$ & $0\mathrm{e}{+00}$ & $0\mathrm{e}{+00}$ & $2.7\mathrm{e}{-03}$ & $2.7\mathrm{e}{-03}$ & - & 00h 02m 34s\\
+RA r1 rl & $1\mathrm{e}{-02}$ & 10000 & 100/100 &32 & $0\mathrm{e}{+00}$ & $0\mathrm{e}{+00}$ & $0\mathrm{e}{+00}$ & $2.5\mathrm{e}{-04}$ & $2.5\mathrm{e}{-04}$ & - & 00h 03m 35s\\
+RA r1 rl & $1\mathrm{e}{-03}$ & 10000 & 100/100 &40 & $0\mathrm{e}{+00}$ & $0\mathrm{e}{+00}$ & $0\mathrm{e}{+00}$ & $2\mathrm{e}{-04}$ & $2\mathrm{e}{-04}$ & - & 00h 04m 16s\\
+RA r1 rl & $1\mathrm{e}{-04}$ & 10000 & 100/100 &50 & $0\mathrm{e}{+00}$ & $0\mathrm{e}{+00}$ & $0\mathrm{e}{+00}$ & $2.5\mathrm{e}{-04}$ & $2.5\mathrm{e}{-04}$ & - & 00h 05m 14s\\
+RA r1 rl & $1\mathrm{e}{-05}$ & 10000 & 100/100 &57 & $0\mathrm{e}{+00}$ & $0\mathrm{e}{+00}$ & $0\mathrm{e}{+00}$ & $2\mathrm{e}{-04}$ & $2\mathrm{e}{-04}$ & - & 00h 05m 51s\\
+RA r1 rl & $1\mathrm{e}{-06}$ & 10000 & 100/100 &65 & $0\mathrm{e}{+00}$ & $0\mathrm{e}{+00}$ & $0\mathrm{e}{+00}$ & $2\mathrm{e}{-04}$ & $2\mathrm{e}{-04}$ & - & 00h 06m 43s\\
+RA r1 rl & $1\mathrm{e}{-07}$ & 10000 & 100/100 &74 & $0\mathrm{e}{+00}$ & $0\mathrm{e}{+00}$ & $0\mathrm{e}{+00}$ & $1.5\mathrm{e}{-04}$ & $1.5\mathrm{e}{-04}$ & - & 00h 07m 35s\\
+RA r1 rl & $1\mathrm{e}{-08}$ & 10000 & 100/100 &80 & $0\mathrm{e}{+00}$ & $0\mathrm{e}{+00}$ & $0\mathrm{e}{+00}$ & $1\mathrm{e}{-04}$ & $1\mathrm{e}{-04}$ & - & 00h 08m 14s\\
