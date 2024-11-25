@@ -1,13 +1,13 @@
 **Note: This readme is still under construction**
 
 # Supersymmetric Quantum Mechanics with Qiskit
-The 0+1 supersymmetric quantum mechanics spontaneous supersymmetry breaking is investigated using the Variational Quantum Eigensolver (VQE) algorithm implemented in [`QISKIT`](https://www.qiskit.org).
-
-The study investigates whether supersymmetry is preserved or broken by calculating the ground state energy of the system (i.e zero preserved, non-zero breaking.), for three different superpontetials:
+The 0+1 supersymmetric quantum mechanics spontaneous supersymmetry breaking is investigated by calculating the ground state energy of the system (i.e zero preserved, non-zero breaking.), for three different superpontetials:
 
 - Harmonic Oscillator
 - Double Well
 - Anharmonic Oscillator
+
+The groud state energy calculation is performed by using the Variational Quantum Eigensolver [`(VQE)`](https://www.nature.com/articles/ncomms5213) algorithm implemented in [`QISKIT`](https://www.qiskit.org)
 
 Results from quantum simulations, both with and without shot noise, are presented in the [`proceeding`](https://arxiv.org/abs/2411.15083). If you find this work useful, please refer to [How to cite](#How_to_cite).
 
