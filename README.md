@@ -8,7 +8,7 @@ The study investigates whether supersymmetry is preserved or broken by calculati
 - Double Well
 - Anharmonic Oscillator
 
-Results from quantum simulations, both with and without shot noise, are presented in the [`proceeding`](https://arxiv.org/abs/2411.15083). If you find this work useful, please refer to [How to cite:](#How to cite:).
+Results from quantum simulations, both with and without shot noise, are presented in the [`proceeding`](https://arxiv.org/abs/2411.15083). If you find this work useful, please refer to [How to cite](#How to cite:).
 
 # Code
 
